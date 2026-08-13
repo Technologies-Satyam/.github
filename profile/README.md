@@ -11,4 +11,4 @@ Technologies-Satyam is a technology organization focused on building modern Andr
 
 ----
 
-Have a project idea or want to collaborate? [Email us](mailto:support.techsatyam@gmail.com).
+Have a project idea or want to collaborate? [Email us](https://mail.google.com/mail/?view=cm&fs=1&to=support.techsatyam@gmail.com).
