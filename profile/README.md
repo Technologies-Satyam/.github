@@ -11,4 +11,4 @@ Technologies-Satyam is an organization focused on building modern Android/IOS, w
 
 ----
 
-Have a project idea or want to collaborate? [Email us](https://mail.google.com/mail/?view=cm&fs=1&to=support.techsatyam@gmail.com).
+Have a project idea or want to collaborate? [Email us](https://mail.google.com/mail/?view=cm&fs=1&to=support@satyamumrao.in).
